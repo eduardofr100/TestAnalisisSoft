@@ -1,0 +1,2 @@
+# TestAnalisisSoft
+Analisis de MonitorUpdaterManagerSample
